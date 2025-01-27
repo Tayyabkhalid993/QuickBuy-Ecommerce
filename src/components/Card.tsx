@@ -1,4 +1,4 @@
-import { urlFor } from '../../sanity/lib/image';
+import { urlFor } from '../../lib/image';
 export default function Card({ 
   product 
 }: { 
