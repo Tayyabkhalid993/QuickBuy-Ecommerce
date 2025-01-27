@@ -1,4 +1,6 @@
 import { urlFor } from '../lib/image';
+
+
 export default function Card({ 
   product 
 }: { 
