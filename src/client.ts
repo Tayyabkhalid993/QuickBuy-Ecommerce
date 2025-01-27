@@ -1,3 +1,4 @@
+// filepath: /g:/Practice/react/New folder/reactsanity/src/client.ts
 import { createClient } from "@sanity/client";
 
 const client = createClient({
@@ -9,5 +10,4 @@ const client = createClient({
   ignoreBrowserTokenWarning: true,
 });
 
-
-export default  client;
+export default client;
