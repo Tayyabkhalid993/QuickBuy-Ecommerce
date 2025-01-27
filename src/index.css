@@ -1,0 +1,66 @@
+@import "tailwindcss";
+/* 
+.detailProduct{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+    gap: 50px;
+}
+
+.detailProduct__info{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    max-width: 30rem;
+}
+
+.detailProduct__info h1{
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.detailProduct__info p{
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+.detailProduct__rating{
+    display: flex;
+    gap: 1rem;
+    font-size: larger;
+  }
+
+.detailProduct_price{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.detailProduct img{
+    width: 400px;  
+    height: 400px; 
+    object-fit: contain;
+}
+
+
+.relatedProducts{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 20px; 
+}
+
+.relatedProducts > div {
+  flex: 1 1 calc(33.333% - 30px); 
+  box-sizing: border-box;
+}
+
+.relatedProducts img{
+    width: 200px;  
+    height: 200px; 
+    object-fit: contain; 
+}
+ */
+
+
+ 
