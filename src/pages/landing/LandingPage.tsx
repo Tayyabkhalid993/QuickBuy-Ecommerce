@@ -1,7 +1,7 @@
 import { Link, useNavigate } from "react-router-dom"
 import type { Product } from "../../components/create-data/fetch-data"
 import { useEffect, useState } from "react"
-import client from "../../client"
+import client from "../../../client"
 import Card from "../../components/Card"
 
 

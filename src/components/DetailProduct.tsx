@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { useNavigate, useParams } from 'react-router';
 import { Product } from './create-data/fetch-data';
-import client from '../../src/client';
+import client from '../../client';
 
 const ProductDetail = () => {
   const params = useParams();

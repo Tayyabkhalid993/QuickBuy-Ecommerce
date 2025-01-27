@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import client from "../../client";
+import client from "../../../client";
 import { useNavigate } from "react-router";
 import Card from "../../components/Card";
 
