@@ -1,7 +1,5 @@
-import { urlFor } from "../../../lib/image"
-import { client } from "../../sanityClient"
-
-
+import { urlFor } from "../../../sanity/lib/image";
+import client from "../../client";
 interface DataType {
   title: string
   description: string

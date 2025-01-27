@@ -1,5 +1,4 @@
 import { urlFor } from "../../sanity/lib/image";
-
 export default function Card({ 
   product 
 }: { 
@@ -20,8 +19,7 @@ export default function Card({
           <img 
             className="w-60 h-60 sm:w-full sm:h-full object-contain" 
             src={urlFor(product.image).url()} 
-            alt={product.title} 
-          />
+            alt={product.title} />
         </div>
         <div className="p-5">
           <h2 className="text-lg md:text-xl font-bold text-gray-900 truncate">{product.title}</h2>
